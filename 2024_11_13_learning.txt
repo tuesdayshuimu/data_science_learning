@@ -1,0 +1,7 @@
+Data requirement and collection
+Data is an ingredient; Ensuring the right ingredients!
+This stage of the DSM (data science methodology) emphasizes the criticality of identifying, sourcing, understanding, and preparing the necessary data for analysis.
+Data requirement, initial data collection assessed for requirement fulfillment. Revise requirements based on availability, quality, and content
+Data collection, requires knowing the source or where to find needed data elements, data acquisition strategies and deferred decisions on unavailable data.
+Data integration, DBAs / programmers extract, merge data from diverse sources. Eliminate redundant data, prep for data understanding. Automate database processes for efficiency and speed.
+Data understanding, Use statistics and visualization for data assessment. Identify data gaps, plan missing data to be filled or substituted. Prepare data for next analysis stages.

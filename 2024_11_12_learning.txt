@@ -1,0 +1,27 @@
+Data science methodology 10 stages:
+- business understanding
+- analytics approach
+- data requirements
+- data collection
+- data understanding
+- data preparation
+- modeling
+- evaluation
+- deployment
+- feedback
+
+first, understand the problem
+then, define the goals and objectives
+
+what is the problem that you're trying to solve?
+how can you use data to answer the business questions
+
+what data do you need to answer the question
+where is the data sourced from, and how will you receive the data
+does the data you collected represent the problem to be solved
+what additional work is required to manipulate and work with the data
+
+when you apply data visualizations, do you see answers that address the business problem?
+does the data model answer the initial business question, or must you adjust the data?
+can you put the model into practice
+can you get constructive feedback from the data and stakeholder to answer the business questions

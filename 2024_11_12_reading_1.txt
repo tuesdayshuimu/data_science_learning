@@ -1,0 +1,38 @@
+The 7 Subscriptions That Keep My Productivity So High My Mom is Impressed 
+(https://iamdgarcia.medium.com/the-7-subscriptions-that-keep-my-productivity-so-high-my-mom-is-impressed-d6b4ca38ee0d)
+
+Let me tell you something you probably already suspect: if you’re working in data science and only relying on your brainpower (or an endless stream of coffee), you’re missing out on a goldmine. No, I’m not talking about cryptocurrencies or LinkedIn gurus who peddle success in the form of motivational quotes. I’m talking about subscriptions that actually, truly, make your productivity skyrocket.
+
+And no, I’m not some salesperson disguised as your buddy, and I’m not sponsored. These just work for me, so I’m sharing them with you. If you’re ready to peek behind the curtain of my work setup (and sofa), keep reading.
+
+1. ChatGPT Plus: Your tireless, never-grumpy colleague
+
+First up is ChatGPT. And no, I don’t mean the free version. The Plus version is like upgrading from a beat-up old car to a luxury vehicle, no exaggeration. For $20 a month, you get GPT-4, which is like that genius cousin who always wins trivia nights. It helps me with complex pandas queries, generates unit tests, makes my code look polished, and explains neural networks with the patience of a saint.
+
+2. Your Own Domain: Your digital home (without the mortgage)
+
+If you’re a data scientist without a personal domain, what are you even doing? Mine, for example, is the humble iamdgarcia.com. Cost? About what you’d pay for a couple of overpriced coffees a year. But it’s worth its weight in gold: portfolios, blogs, or even just a space to flaunt your projects. Oh, and if you don’t know what DNS is, learn it now. It’s more practical than half the things you learned in college.
+
+3. Cloud Platforms: Play tech giant for a day
+
+I’m talking about AWS, GCP, Azure — tech’s rock stars. Having a personal account to experiment on is like having a private playground for your algorithms. Just be careful not to leave any virtual machines running by mistake, or you’ll be looking at a bill that will make your credit card weep. Ask me how I know.
+
+Most people won’t recommend this, but DigitalOcean is my very best for small and simple applications.
+
+4. Coursera: Where Andrew Ng reigns (and you are his humble disciple)
+
+If you haven’t taken one of his courses, you’re living in the Stone Age. His machine learning classes are as essential as your morning coffee. And if you’re the type who binges, go for Coursera Plus. It’s not cheap, but hey, do you want to save or learn? Because you can’t always do both.
+
+5. Medium: More than an excuse to procrastinate
+
+If you’re reading this, you already know what Medium is. But are you subscribed? For $5 a month, your inbox will fill with content that makes you look like the smartest person in the room during meetings. Sure, Wikipedia is accurate, but Medium? Way more fun.
+
+6. Spotify Premium: Because nobody can concentrate with shampoo ads
+
+You might think you don’t need Spotify for work, but try coding with their “Perfect Concentration” playlist on and tell me later. If you’re into podcasts, ad-free listening is a must. One annoying ad break, and boom — concentration shattered.
+
+7. YouTube Premium: Learning even while lying down
+
+YouTube is an all-knowing teacher. But the ads? Like flies buzzing on a hot summer day. I watch channels like Yannic Kilcher or Fireship during lunch or before bed. That passive learning adds up, trust me.
+
+In Summary: These subscriptions won’t work miracles, but they do turn a “I’m drowning in tasks” day into an “I stayed late because I was inspired” kind of day. And what about you? What tools do you use to stay productive? Drop your suggestions — I’m all about learning new tricks.

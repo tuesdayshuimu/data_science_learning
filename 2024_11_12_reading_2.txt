@@ -1,0 +1,19 @@
+Architecting for Scale: Key Event-Driven Patterns You Need to Know
+(https://levelup.gitconnected.com/architecting-for-scale-key-event-driven-patterns-you-need-to-know-71599fb4e62c)
+
+ What is Event-Driven Architecture?
+ Event-Driven Architecture revolves around events — notifications of state changes that are emitted by one component (producer) and processed by another (consumer)
+ 
+ Core Concepts of EDA
+ Event Producers
+ Event Routers/Brokers
+ Event Consumers
+ 
+ Core Event-Driven Patterns
+ Competing Consumer Pattern
+ Consume and Project Pattern
+ Event Sourcing Pattern
+ Async Task Execution Pattern
+ Transactional Outbox Pattern
+ Event Aggregation Pattern
+ Saga Pattern
